@@ -1,0 +1,133 @@
+.navbar {
+  background-color: #1f2937;
+  color: #f9faf8;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+  margin: auto;
+}
+.header-link {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.header-links {
+  gap: 64px;
+}
+.foto {
+  width: 500px;
+  height: 300px;
+}
+.hero {
+  justify-content: space-around;
+  background-color: #1f2937;
+}
+.heading {
+  height: 15vh;
+  font-size: 48px;
+  font-family: extra-bold;
+  color: #f9faf8;
+}
+.paragraf {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.giris {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 8px;
+  padding: 8px;
+
+  font-size: 16px;
+}
+.cerceve {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  border-color: green blue red yellow;
+  border-width: 4px;
+}
+.cerceveler {
+  margin: auto;
+  gap: 60px;
+  justify-content: center;
+}
+.bilgilendirme {
+  height: 10vh;
+  text-align: center;
+  font-size: 36px;
+  font-family: extra-bold;
+  color: #1f2937;
+}
+.metin {
+  align-self: center;
+  width: 600px;
+  align-items: center;
+  padding: 20px;
+}
+.yazi {
+  white-space: pre-wrap;
+  font-size: 36px;
+  font-family: light italic;
+  color: #1f2937;
+}
+.imza {
+  justify-content: flex-end;
+  margin: 4px;
+
+  font-size: 26px;
+  font-family: "Times New Roman", Times, serif;
+}
+.assasi {
+  height: 10vh;
+
+  background-color: #3882f6;
+  color: #f9faf8;
+}
+.sign {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 8px;
+  padding: 8px;
+  border-color: #e5e7eb;
+  font-size: 16px;
+  border-width: 3px;
+}
+.baslik2 {
+  font-size: 32px;
+}
+.yazi2 {
+  font-size: 24px;
+}
+.odin {
+  height: 10vh;
+  margin: auto;
+  text-align: center;
+  background-color: #1f2937;
+  font-size: 25px;
+  font-family: fantasy, Times, serif;
+}
+.card {
+  width: 100px;
+  gap: 20px;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.assasi2 {
+  height: 10vh;
+}
